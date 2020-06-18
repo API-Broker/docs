@@ -1,5 +1,5 @@
 # Theme
-#theme: "just-the-docs"
+theme: "just-the-docs"
 baseurl: "/"
 remote_theme: pmarsceill/just-the-docs
 
